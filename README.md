@@ -1,2 +1,2 @@
 # MNIST-digit-recognition
-Building and training 2 classification models for the MNIST dataset
+Building and training an SNN (Shallow Neural Network) classification model for the MNIST dataset.
